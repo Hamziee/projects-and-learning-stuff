@@ -1,0 +1,4 @@
+
+#Python Learning
+language = "python"
+run = "python python/app.py"
